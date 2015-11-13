@@ -1,1 +1,1 @@
-To play, please click <a href="https://repl.it/BZhF" target="_blank">here</a> and click Run.
+To play Blackjack, please click <a href="https://repl.it/BZhF" target="_blank">here</a> and click Run.
